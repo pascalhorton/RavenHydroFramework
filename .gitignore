@@ -41,3 +41,7 @@ Makefile
 # Runtime artifacts
 Raven
 Raven_errors.txt
+
+.idea/
+cmake-build-debug/
+vcpkg_installed/
